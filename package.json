@@ -1,0 +1,30 @@
+{
+  "name": "gulp-css-buster",
+  "version": "0.0.0",
+  "description": "Gulp plugin for adding md5 hash for cache baster to local URL in css.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "gulp-util": "^3.0.8",
+    "through2": "^2.0.3"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "should": "^11.1.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/agence-webup/gulp-css-buster.git"
+  },
+  "keywords": [
+    "gulpplugin",
+    "cachebuster"
+  ],
+  "author": "Baptiste Ducatel",
+  "license": "MIT"
+}
