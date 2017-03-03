@@ -1,6 +1,6 @@
 {
   "name": "gulp-css-buster",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Gulp plugin for adding md5 hash for cache baster to local URL in css.",
   "main": "index.js",
   "directories": {
